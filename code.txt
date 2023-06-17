@@ -1,0 +1,1 @@
+just drag and drop ex4 file on chart in metatrader4
